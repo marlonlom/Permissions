@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions Contact demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_error_contact_not_selected">Contact not Selected.</string>
+    <string name="text_error_contact_name_empty">Contact Display name empty.</string>
+    <string name="text_info_contact_name_found">Contact Found:</string>
+    <string name="text_error_contacts_permission_needed">Contacts permission needed for displaying name.</string>
+    <string name="home_action_retry">Retry</string>
+</resources>
