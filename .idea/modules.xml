@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Permissions.iml" filepath="$PROJECT_DIR$/Permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permissions.iml" filepath="$PROJECT_DIR$/Permissions.iml" />
       <module fileurl="file://$PROJECT_DIR$/prms_demo_app/prms_demo_app.iml" filepath="$PROJECT_DIR$/prms_demo_app/prms_demo_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prms_demo_app/prms_demo_app.iml" filepath="$PROJECT_DIR$/prms_demo_app/prms_demo_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prms_library/prms_library.iml" filepath="$PROJECT_DIR$/prms_library/prms_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/prms_library/prms_library.iml" filepath="$PROJECT_DIR$/prms_library/prms_library.iml" />
     </modules>
   </component>
